@@ -1,0 +1,18 @@
+Player 1:
+
+
+    w
+a   s   d
+
+attack: Q
+block: E
+
+Player 2:
+
+
+    ^
+    |
+<-      ->  
+
+attack: O
+block: P
